@@ -1,0 +1,8 @@
+<manifest
+    package="com.ivianuu.materialdonations"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Permissions -->
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+</manifest>

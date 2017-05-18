@@ -32,7 +32,6 @@
             android:fontFamily="sans-serif"
             android:gravity="start"
             android:paddingLeft="16dp"
-            android:text="@string/loading_donations"
             android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
             tools:ignore="RtlHardcoded,RtlSymmetry" />
 
